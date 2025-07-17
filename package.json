@@ -13,7 +13,6 @@
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
     "@cypress/webpack-preprocessor": "^6.0.4",
-    "allure-commandline": "^2.34.1",
     "cypress": "^14.5.2"
   }
 }
